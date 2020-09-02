@@ -1,5 +1,5 @@
 view: verification_data {
-  sql_table_name: `california-ui-solution-demo.Test_Data_1.Verification_Data`
+  sql_table_name: `california-ui-solution-demo.Test_Data_1.Verification_data`
     ;;
   drill_fields: [id]
 
