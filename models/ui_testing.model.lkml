@@ -11,3 +11,5 @@ datagroup: ui_testing_default_datagroup {
 persist_with: ui_testing_default_datagroup
 
 explore: claimant_data_1 {}
+
+explore: claimant_data_2 {}
