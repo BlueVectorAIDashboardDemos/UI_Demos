@@ -16,4 +16,4 @@ explore: claimant_data_2 {}
 
 explore: verification_data {}
 
-explore: verificaiton_data_2 {}
+explore: verification_data_2 {}
