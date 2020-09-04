@@ -15,3 +15,5 @@ explore: claimant_data_1 {}
 explore: claimant_data_2 {}
 
 explore: verification_data {}
+
+explore: claim_amounts {}
